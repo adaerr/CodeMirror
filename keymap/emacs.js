@@ -367,7 +367,7 @@
 
     "Alt-;": "toggleComment",
 
-    "Ctrl-/": repeated("undo"), "Shift-Ctrl--": repeated("undo"),
+    "Ctrl-/": repeated("undo"), "Shift-Ctrl-_": repeated("undo"),
     "Ctrl-Z": repeated("undo"), "Cmd-Z": repeated("undo"),
     "Shift-Alt-,": "goDocStart", "Shift-Alt-.": "goDocEnd",
     "Ctrl-S": "findPersistentNext", "Ctrl-R": "findPersistentPrev", "Ctrl-G": quit, "Shift-Alt-5": "replace",
